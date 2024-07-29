@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SetTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2024-04-27T19:05:48" hostname="DESKTOP-E79PBMM" time="0.01">
+  <properties/>
+  <testcase name="isEmptyGeneral" classname="SetTest" time="0.001"/>
+  <testcase name="remove" classname="SetTest" time="0.002"/>
+  <testcase name="contains" classname="SetTest" time="0.001"/>
+  <testcase name="add" classname="SetTest" time="0.002"/>
+  <testcase name="containsGeneral" classname="SetTest" time="0.0"/>
+  <testcase name="removeGeneral" classname="SetTest" time="0.0"/>
+  <testcase name="addGeneral" classname="SetTest" time="0.0"/>
+  <testcase name="isEmpty" classname="SetTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
